@@ -5,7 +5,7 @@ Welcome to Robert Steane's github portfolio containing a collection of my work i
 
 🌱 I’m currently working on improving my use of Machine Learning
 
-🔭 I am looking for a full time Data Scientist role either around London or remotely.
+🔭 I am looking for an entry level Data Scientist or Data Engineer role either around London or remotely.
 
 📫 How to reach me: https://www.linkedin.com/in/robert-steane/
 
